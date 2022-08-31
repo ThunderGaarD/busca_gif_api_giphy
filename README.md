@@ -1,6 +1,6 @@
-# busca_gifs
+# busca_gif_api_giphy
 
-A new Flutter project.
+Projeto para buscar GIFs da API do Giphy
 
 ## Getting Started
 
